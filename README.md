@@ -1,4 +1,4 @@
-# Print-divisor-of-any-number-less-time-complexity.
+# Print-divisor-of-any-number-in-ordered-way
 #include <stdio.h>
 #include<math.h>
 
